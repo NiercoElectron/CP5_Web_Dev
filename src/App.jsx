@@ -4,7 +4,6 @@ import Footer from './components/Footer'
 import Home from './routes/Home'
 import Produtos from './routes/Produtos'
 import Error from './routes/Error'
-import './App.css'
 
 function Layout() {
   return (
